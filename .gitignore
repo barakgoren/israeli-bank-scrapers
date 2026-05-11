@@ -57,8 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
-# NPM package related
-lib/
+# NPM package related — lib/ is committed so git dependencies work without a build step
+# lib/
 
 # IDEs
 .idea
